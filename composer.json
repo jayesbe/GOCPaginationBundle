@@ -6,5 +6,8 @@
     "require": {
         "php": ">=5.3.2"
     },
+    "autoload": {
+        "psr-0": { "GOC\\PaginationBundle": "" }
+    },
     "target-dir": "GOC/PaginationBundle"
 }
